@@ -265,9 +265,3 @@ server <- shinyServer(function(input, output, session) {
 })
 
 shinyApp(ui = app, server = server)
-
-#___________#
-
-# d1 <- "2010/01/01"
-# word1 <- "remote virtual adherence retention dropout e-consent recruitment"
-# d2 <- "2019/01/01"
